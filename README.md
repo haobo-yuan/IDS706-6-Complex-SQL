@@ -1,10 +1,14 @@
-![Install Dependencies](https://github.com/haobo-yuan/IDS706-5-SQL-Python/actions/workflows/install.yml/badge.svg)
-![Format Code](https://github.com/haobo-yuan/IDS706-5-SQL-Python/actions/workflows/format.yml/badge.svg)
-![Lint Code](https://github.com/haobo-yuan/IDS706-5-SQL-Python/actions/workflows/lint.yml/badge.svg)
-![Run Tests](https://github.com/haobo-yuan/IDS706-5-SQL-Python/actions/workflows/test.yml/badge.svg)
+![Install Dependencies](https://github.com/haobo-yuan/IDS706-6-Complex-SQL/actions/workflows/install.yml/badge.svg)
+![Format Code](https://github.com/haobo-yuan/IDS706-6-Complex-SQL/actions/workflows/format.yml/badge.svg)
+![Lint Code](https://github.com/haobo-yuan/IDS706-6-Complex-SQL/actions/workflows/lint.yml/badge.svg)
+![Run Tests](https://github.com/haobo-yuan/IDS706-6-Complex-SQL/actions/workflows/test.yml/badge.svg)
 
-# IDS-706 Data Engineering: Project 5
-This is a IDS-706 week 5 project that tries to explore Python Script interacting with SQL Database.
+# IDS-706 Data Engineering: Project 6
+This is a IDS-706 week 6 project that tries to explore Complex SQL Query for a MySQL Database (Can be any external database including DynamoDB, Databricks, or even Neo4j).
+
+- Design a complex SQL query involving joins, aggregation, and sorting
+
+- Provide an explanation for what the query is doing and the expected results
 
 ## Screenshot of successful database operations
 

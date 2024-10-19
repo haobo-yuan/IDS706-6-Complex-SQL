@@ -10,6 +10,10 @@ nbqa==1.7.0  # for running black, flake8, isort, mypy, pylint on notebooks
 pylint==2.15.3
 ruff==0.0.290  # for running pylint on notebooks
 
+requests==2.26.0  # for making http requests
+
+databricks-sql-conntector==3.4.0  # for connecting to databricks sql
+python-dotenv==1.0.1  # for loading environment variables from .env file
 
 # web
 # fastapi==0.111.0  # used when run docs.docker demo
