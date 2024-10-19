@@ -10,19 +10,19 @@ This is a IDS-706 week 6 project that tries to explore Complex SQL Query for a M
 
 - Provide an explanation for what the query is doing and the expected results
 
-## Screenshot of successful database operations
+## Project Description
 
-1. Working in Jupyter Notebook, exploring the data in the database, and implementing CRUD operations.
+Here is a brief overview roadmap of the project 
 
-![Screenshot_Notebook](pictures/Succeed_in_implementing_CRUD_in_Jupyter_Notebooks.png)
+![roadmap](pictures/Roadmap.png)
 
-2. Then seperate the code into different files, including `lib.py`, `main.py`, `test_lib.py` and `test_main.py`, and run them in the terminal.
+Here is a demo video show you a detailed explanation of this project.
 
-![Screenshot_main](pictures/Succeed_in_main.png)
+[![Watch the video](https://img.youtube.com/vi/yJRoMepMxO8/hqdefault.jpg)](https://youtu.be/yJRoMepMxO8)
 
-![Screenshot_test_lib](pictures/Succeed_in_test_lib.png)
+Here is the final Databricks table for this project.
 
-![Screenshot_test_main](pictures/Succeed_in_test_main.png)
+![hy220_nasdaq_aapl_total](pictures/README_databricks_TotalTable_screenshot.png)
 
 ## AAPL Price Statistics (2010-2021)
 
