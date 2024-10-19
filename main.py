@@ -7,8 +7,8 @@ from mylib.transform_load import load
 from mylib.query import query
 
 # Extract
-print("Extracting data...")
-extract()
+# print("Extracting data...")
+# extract()
 
 # Transform and load
 print("Transforming data...")
