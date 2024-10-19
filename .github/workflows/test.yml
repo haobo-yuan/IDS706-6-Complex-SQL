@@ -28,4 +28,8 @@ jobs:
         run: make install
 
       - name: Run tests with pytest
+        env:
+          DATABRICKS_KEY: ${{ secrets.DATABRICKS_KEY }}
+          SERVER_HOSTNAME: ${{ secrets.SERVER_HOSTNAME }}
+          HTTP_PATH: ${{ secrets.HTTP_PATH }}
         run: make test
