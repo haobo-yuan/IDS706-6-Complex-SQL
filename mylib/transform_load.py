@@ -91,5 +91,7 @@ def load(dataset="./data/NASDAQ_100_Data_From_2010.csv"):
             cursor.close()
         connection.close()
 
+    return "Data loaded or has been loaded successfully"
+
 if __name__ == "__main__":
     load()

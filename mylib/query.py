@@ -44,5 +44,7 @@ def query():
             cursor.close()
         connection.close()
 
+    return "Data queried and saved successfully"
+
 if __name__ == "__main__":
     query()

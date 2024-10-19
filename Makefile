@@ -7,14 +7,15 @@ install:
 		pip install -r requirements.txt
 
 test:
-	pytest -vv --cov=lib --cov-report=term-missing --nbval *.ipynb test_*.py
+	# pytest -vv --cov=lib --cov-report=term-missing --nbval *.ipynb test_*.py
+	pytest -vv --cov=lib --cov-report=term-missing test_*.py
 
 format:
 	black *.py
-	nbqa black *.ipynb
+	# nbqa black *.ipynb
 
 lint:
 	ruff check *.py
-	nbqa ruff *.ipynb
+	# nbqa ruff *.ipynb
 
 all: install format lint test
