@@ -18,7 +18,7 @@ Here is a brief overview roadmap of the project
 
 Here is a demo video show you a detailed explanation of this project.
 
-[![Watch the video](https://img.youtube.com/vi/yJRoMepMxO8/hqdefault.jpg)](https://youtu.be/yJRoMepMxO8)
+[![Watch the video](https://img.youtube.com/vi/tp5cN8F3yIM/hqdefault.jpg)](https://youtu.be/tp5cN8F3yIM)
 
 Here is the final Databricks table for this project.
 
